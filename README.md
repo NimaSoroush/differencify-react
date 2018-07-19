@@ -15,6 +15,9 @@ This repository contains the example code for using <a href='https://github.com/
 <br>
 
 ## About
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/NimaSoroush/differencify-react.svg)](https://greenkeeper.io/)
+
 Differencify is a library for visual regression testing by comparing your local changes with reference screenshots of your website. It is built on top of chrome headless using [Puppeteer](https://github.com/GoogleChrome/puppeteer)
 
 |Reference|Local changes|
